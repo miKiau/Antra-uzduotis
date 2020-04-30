@@ -15,10 +15,6 @@ struct Studentas
   double vid, med;
 };
 
-using std::cout;
-using std::cin;
-using std::string;
-
 void intro(int &kiek);
 int get_int(std::string zinute);
 std::string get_string();
