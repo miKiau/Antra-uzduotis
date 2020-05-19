@@ -17,5 +17,5 @@ Programa atspausdina įvestus ranka arba iš '.txt' formato failo studentų vard
 - Programa pateikia reizultatą surušiuotą pagal pavardes;
 - Programa nebeklausia kokia forma norima pateikti rezultatą, programa pateikia vidurkį ir medianą kartu;
 - Pakeistas rankinio įvedimo funkcionalumas.
-## [Versija 0.3](https://github.com/miKiau/Antra-uzduotis/tree/0.2v) (2020-05-19)
+## [Versija 0.3](https://github.com/miKiau/Antra-uzduotis/tree/0.3v) (2020-05-19)
 - Programa geriau sustruktūrizuota.
