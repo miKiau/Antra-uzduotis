@@ -1,6 +1,6 @@
 # Studentų vidurkių arba medianos skaičiavimas
 Programa atspausdina įvestus ranka arba iš '.txt' formato failo studentų vardus, pavardes, vidurkį ir medianą.
-![](pav.png)
+![](photo.png)
 
 ## Versijų istorija (changelog)
 
